@@ -1,0 +1,10 @@
+$ lsblk
+$ ls /dev/mapper (probably links to dm-[0-9]
+$ dmsetup ls
+$ dmsetup info /dev/dm-*
+$ blkid
+$ fdisk -l
+
+You don't parition a partition!!
+
+
